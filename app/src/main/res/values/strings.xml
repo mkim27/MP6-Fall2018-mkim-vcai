@@ -1,6 +1,10 @@
 <resources>
+<<<<<<< HEAD
     <string name="app_name">MP6-CatTinder</string>
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
+=======
+    <string name="app_name">MP6-Fall2018-mkim-vcai</string>
+>>>>>>> ea310fcb00b17a5b847a9628006334348eee5350
 </resources>
